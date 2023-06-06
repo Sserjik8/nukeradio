@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/nukeradio/static/css/main.963f587a.css",
-    "main.js": "/nukeradio/static/js/main.063915a1.js",
-    "static/media/background.png": "/nukeradio/static/media/background.29265b1658a10a441c76.png",
-    "static/media/OldLondon.ttf": "/nukeradio/static/media/OldLondon.a67214b49bb04c352ce8.ttf",
-    "index.html": "/nukeradio/index.html",
-    "main.963f587a.css.map": "/nukeradio/static/css/main.963f587a.css.map",
-    "main.063915a1.js.map": "/nukeradio/static/js/main.063915a1.js.map"
+    "main.css": "./static/css/main.47699c42.css",
+    "main.js": "./static/js/main.063915a1.js",
+    "static/media/background.png": "./static/media/background.29265b1658a10a441c76.png",
+    "static/media/OldLondon.ttf": "./static/media/OldLondon.a67214b49bb04c352ce8.ttf",
+    "index.html": "./index.html",
+    "main.47699c42.css.map": "./static/css/main.47699c42.css.map",
+    "main.063915a1.js.map": "./static/js/main.063915a1.js.map"
   },
   "entrypoints": [
-    "static/css/main.963f587a.css",
+    "static/css/main.47699c42.css",
     "static/js/main.063915a1.js"
   ]
 }
