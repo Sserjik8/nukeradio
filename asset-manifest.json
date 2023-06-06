@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/nukerario/static/css/main.082b0efd.css",
+    "main.js": "/nukerario/static/js/main.063915a1.js",
+    "static/media/background.png": "/nukerario/static/media/background.29265b1658a10a441c76.png",
+    "static/media/OldLondon.ttf": "/nukerario/static/media/OldLondon.a67214b49bb04c352ce8.ttf",
+    "index.html": "/nukerario/index.html",
+    "main.082b0efd.css.map": "/nukerario/static/css/main.082b0efd.css.map",
+    "main.063915a1.js.map": "/nukerario/static/js/main.063915a1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.082b0efd.css",
+    "static/js/main.063915a1.js"
+  ]
+}
