@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "./static/css/main.47699c42.css",
-    "main.js": "./static/js/main.11c1211e.js",
+    "main.css": "./static/css/main.5a5970ab.css",
+    "main.js": "./static/js/main.d24bd1ce.js",
     "static/media/background.png": "./static/media/background.29265b1658a10a441c76.png",
     "static/media/OldLondon.ttf": "./static/media/OldLondon.a67214b49bb04c352ce8.ttf",
     "index.html": "./index.html",
-    "main.47699c42.css.map": "./static/css/main.47699c42.css.map",
-    "main.11c1211e.js.map": "./static/js/main.11c1211e.js.map"
+    "main.5a5970ab.css.map": "./static/css/main.5a5970ab.css.map",
+    "main.d24bd1ce.js.map": "./static/js/main.d24bd1ce.js.map"
   },
   "entrypoints": [
-    "static/css/main.47699c42.css",
-    "static/js/main.11c1211e.js"
+    "static/css/main.5a5970ab.css",
+    "static/js/main.d24bd1ce.js"
   ]
 }
